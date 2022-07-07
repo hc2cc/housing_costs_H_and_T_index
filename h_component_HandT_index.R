@@ -11,7 +11,7 @@ library(ggplot2)
 library(viridis)
 
 # your working directory
-setwd("~/git/")
+setwd("~/git/housing_costs_H_and_T_index")
 
 #######################
 # COUNTIES in DMV AREA
